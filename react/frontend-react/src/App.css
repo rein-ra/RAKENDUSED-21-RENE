@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.gif {
+  width: 50vw;
+  height: 40vh;
+}
+
+.profiles{
+  display: flex;
+  flex-direction: row;
+}
